@@ -22,7 +22,6 @@ public class DashboardActivity extends AppCompatActivity {
     Button shareBtn, joinBtn;
 
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -54,8 +53,6 @@ public class DashboardActivity extends AppCompatActivity {
                         .setRoom(secretCodeBox.getText().toString())
                         .setWelcomePageEnabled(false)
                         .build();
-
-
                 JitsiMeetActivity.launch(DashboardActivity.this, options);
 
             }
