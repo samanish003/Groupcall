@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "692117894027",
+    "project_id": "groupcall-4e726",
+    "storage_bucket": "groupcall-4e726.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692117894027:android:71e3b6a69b489c5560b58e",
+        "android_client_info": {
+          "package_name": "com.example.groupcall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692117894027-rfssg59ev0v84nbarbidjlt2k3q1jdev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjw-MKbQQmCz_KGurD0n4dBagU-XKKiH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692117894027-rfssg59ev0v84nbarbidjlt2k3q1jdev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
