@@ -20,6 +20,7 @@ public class DashboardActivity extends AppCompatActivity {
 
     EditText secretCodeBox;
     Button shareBtn, joinBtn;
+    Button
 
 
     @Override
